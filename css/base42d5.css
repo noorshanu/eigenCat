@@ -201,6 +201,11 @@ body {
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
 }
+.pop{
+  height: 300px;
+  margin-top: 10px;
+  border-radius: 20px;
+}
 .header__inner {
   display: flex;
   justify-content: space-between;
