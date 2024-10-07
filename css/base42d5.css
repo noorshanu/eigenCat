@@ -201,6 +201,9 @@ body {
   -webkit-animation-name: fadeInDown;
   animation-name: fadeInDown;
 }
+.ca{
+  font-size: 14px;
+}
 .pop{
   height: 300px;
   margin-top: 10px;
